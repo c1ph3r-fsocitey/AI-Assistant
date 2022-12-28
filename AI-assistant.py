@@ -123,6 +123,6 @@ if __name__ == "__main__":
             speak("I am really sorry master")
             break
 
-        elif 'fuck' in query:
+        elif 'fuck off' in query:
             speak("i am really sorry master!")
             break
