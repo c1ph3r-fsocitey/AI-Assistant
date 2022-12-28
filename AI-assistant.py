@@ -112,6 +112,7 @@ if __name__ == "__main__":
             speak(joke)
         
         elif 'stop' in query:
+            speak("have a good day sir!")
             break
 
         elif 'break' in query:
