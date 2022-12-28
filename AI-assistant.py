@@ -118,6 +118,7 @@ if __name__ == "__main__":
             break
         
         elif 'shut up' in query:
+            speak("I am really sorry master")
             break
 
         elif 'fuck' in query:
