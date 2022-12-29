@@ -14,3 +14,6 @@ pip install wikipedia
 ```
 pip install pyaudio
 ```
+```
+pip install pycopy-webbrowser
+```
