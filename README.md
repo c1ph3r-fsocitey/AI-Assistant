@@ -1,5 +1,5 @@
 # AI-Assistant
-An Artificially Intelligent Assistant, made using Python.
+An Artificial Intelligent Assistant, made using Python.
 
 kindly use the following commands in terminal to install the required packages.
 ```
