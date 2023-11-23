@@ -84,7 +84,7 @@ if __name__ == "__main__":
             webbrowser.open('7cups.com')
 
         elif 'open stack overflow' in query:
-            spead("opening stack overflow")
+            speak("opening stack overflow")
             webbrowser.open('stackoverflow.com')
 
         elif 'open gmail' in query:
